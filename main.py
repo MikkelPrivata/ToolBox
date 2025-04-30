@@ -1,6 +1,5 @@
 import sys
-import PySide6 as ps
-from PySide6 import QtCore as Core, QtWidgets as Widgets, QtGui as GUI
+from PySide6 import QtWidgets as Widgets
 from PySide6.QtWidgets import QTextEdit as TextEdit, QMenuBar as MenuBar, QStatusBar as StatusBar
 from PySide6.QtGui import QAction as Action
 
