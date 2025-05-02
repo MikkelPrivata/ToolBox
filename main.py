@@ -38,10 +38,10 @@ class MainWindow(Widgets.QMainWindow):
         save_action = Action("Save", self);         save_action.setShortcut(GUI.QKeySequence("Ctrl+S"))
         save_as_action = Action("Save As", self);   save_as_action.setShortcut(GUI.QKeySequence("Ctrl+Shift+S"))
         
-        file_menu.addAction(new_action);    new_action.triggered.connect(self.new_file)
-        file_menu.addAction(open_action);   open_action.triggered.connect(self.open_file)
-        file_menu.addAction(save_action);   save_action.triggered.connect(self.save_file)
-        file_menu.addAction(save_as_action);save_as_action.triggered.connect(self.save_file_as)
+        file_menu.addAction(new_action);        new_action.triggered.connect(self.new_file)
+        file_menu.addAction(open_action);       open_action.triggered.connect(self.open_file)
+        file_menu.addAction(save_action);       save_action.triggered.connect(self.save_file)
+        file_menu.addAction(save_as_action);    save_as_action.triggered.connect(self.save_file_as)
 
         self.status_bar = StatusBar(self)
         self.setStatusBar(self.status_bar)
