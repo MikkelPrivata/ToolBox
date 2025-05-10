@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "hejsa.txty"
+    },
+    "content": "hejsa\n2\ne2q4e2q4\ndwaopdjwad",
+    "formatting": [
+        {
+            "bold": false,
+            "italic": true,
+            "underline": false,
+            "range": [
+                0,
+                6
+            ]
+        },
+        {
+            "bold": true,
+            "italic": true,
+            "underline": false,
+            "range": [
+                6,
+                8
+            ]
+        },
+        {
+            "bold": false,
+            "italic": true,
+            "underline": true,
+            "range": [
+                8,
+                17
+            ]
+        },
+        {
+            "bold": true,
+            "italic": true,
+            "underline": false,
+            "range": [
+                17,
+                27
+            ]
+        }
+    ]
+}

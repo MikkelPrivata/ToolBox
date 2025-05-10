@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "Untitled"
+    },
+    "content": "this is a test                                                                                                                                                                 is this a test?\n\n\n\n\n\n\n\n",
+    "formatting": [
+        {
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "range": [
+                0,
+                176
+            ]
+        },
+        {
+            "bold": true,
+            "italic": true,
+            "underline": true,
+            "range": [
+                176,
+                192
+            ]
+        },
+        {
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "range": [
+                192,
+                198
+            ]
+        }
+    ]
+}

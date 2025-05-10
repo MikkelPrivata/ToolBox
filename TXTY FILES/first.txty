@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "title": "first.txty"
+    },
+    "content": "hello texty!\n\n\n\n\t\t\t\thow are you? ^^",
+    "formatting": [
+        {
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "range": [
+                0,
+                21
+            ]
+        },
+        {
+            "bold": true,
+            "italic": true,
+            "underline": false,
+            "range": [
+                21,
+                35
+            ]
+        }
+    ]
+}
